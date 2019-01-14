@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hugoloin.github.io/SkemaCoin/sitemap.xml
