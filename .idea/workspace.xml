@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa0f64c8-d81f-4428-b6d0-ab8e7fe248fa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -32,14 +31,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="243" />
+          <entry key="html" value="265" />
           <entry key="txt" value="56" />
           <entry key="xml" value="135" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="243" />
+          <entry key="HTML" value="265" />
           <entry key="PLAIN_TEXT" value="56" />
           <entry key="XML" value="135" />
         </counts>
@@ -65,8 +64,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="233" column="155" selection-start-line="233" selection-start-column="155" selection-end-line="233" selection-end-column="155" />
+            <state relative-caret-position="263">
+              <caret line="233" column="87" selection-start-line="233" selection-start-column="87" selection-end-line="233" selection-end-column="87" />
             </state>
           </provider>
         </entry>
@@ -190,12 +189,12 @@
       <workItem from="1547489679526" duration="264000" />
       <workItem from="1547576037546" duration="630000" />
       <workItem from="1548661344894" duration="645000" />
-      <workItem from="1548670668724" duration="104000" />
+      <workItem from="1548670668724" duration="332000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6490000" />
+    <option name="totallyTimeSpent" value="6718000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="417" y="22" width="1023" height="813" extended-state="0" />
@@ -229,8 +228,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="233" column="155" selection-start-line="233" selection-start-column="155" selection-end-line="233" selection-end-column="155" />
+        <state relative-caret-position="263">
+          <caret line="233" column="87" selection-start-line="233" selection-start-column="87" selection-end-line="233" selection-end-column="87" />
         </state>
       </provider>
     </entry>
