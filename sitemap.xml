@@ -10,5 +10,12 @@
             <image:license>https://www.freelogodesign.org/</image:license>
             <image:geo_location>Lille, France</image:geo_location>
         </image:image>
-    </url>!
+        <image:image>
+            <image:loc>https://hugoloin.github.io/SkemaCoin/index.html/img/photofond.jpg</image:loc>
+            <image:caption>skemacoin crypto monnaie de skema </image:caption>
+            <image:title>skema</image:title>
+            <image:license>https://www.hugoloin.github.io/SkemaCoin/</image:license>
+            <image:geo_location>Lille, France</image:geo_location>
+        </image:image>
+    </url>
 </urlset>
